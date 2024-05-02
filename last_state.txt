@@ -1,0 +1,7 @@
+./source:
+total 4
+drwxrwxr-x 2 sarah sarah 4096 أكت 31 17:55 test
+
+./source/test:
+total 4
+-rw-rw-r-- 1 sarah sarah 52 أكت 31 17:55 t
